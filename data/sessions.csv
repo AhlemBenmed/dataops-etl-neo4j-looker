@@ -1,0 +1,21 @@
+session_id,date,instructor,module
+101,2025-05-21,Prof. Brown,Data Structures
+102,2025-05-24,Dr. Garcia,Machine Learning
+103,2025-05-28,Dr. Garcia,Algorithms
+104,2025-05-31,Dr. Lee,Databases
+105,2025-06-02,Dr. Smith,Algorithms
+106,2025-05-22,Dr. Jones,Databases
+107,2025-05-18,Dr. Lee,Machine Learning
+108,2025-06-12,Dr. Garcia,Algorithms
+109,2025-05-16,Dr. Smith,Machine Learning
+110,2025-05-24,Prof. Brown,Machine Learning
+111,2025-06-04,Dr. Jones,Databases
+112,2025-05-18,Dr. Lee,Machine Learning
+113,2025-05-26,Prof. Brown,Machine Learning
+114,2025-05-19,Dr. Garcia,Graph Theory
+115,2025-06-03,Dr. Garcia,Algorithms
+116,2025-05-15,Dr. Smith,Databases
+117,2025-06-12,Dr. Smith,Machine Learning
+118,2025-05-28,Prof. Brown,Data Structures
+119,2025-06-05,Dr. Smith,Machine Learning
+120,2025-06-07,Dr. Garcia,Algorithms

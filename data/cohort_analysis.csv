@@ -1,0 +1,431 @@
+SubscriptionMonth,Country,TrackName,num_students
+2024-01,Côte D'Ivoire,Data Scientist Bootcamp*,3
+2024-01,Côte D'Ivoire,Performance Marketing - Meta Certified,11
+2024-01,Côte D'Ivoire,Python Essentials*,9
+2024-01,Côte D'Ivoire,Social Media Marketing Essentials*,6
+2024-01,Côte D'Ivoire,Software Developer Bootcamp*,9
+2024-01,Côte D'Ivoire,Web Development Essentials*,14
+2024-01,Egypt,Cybersecurity - Comptia Security + Certified,2
+2024-01,Egypt,Data Scientist Bootcamp*,8
+2024-01,Egypt,Graphic Design - Adobe Certified*,4
+2024-01,Egypt,Introduction to UX Design,2
+2024-01,Egypt,Python Essentials*,5
+2024-01,Egypt,Social Media Marketing Essentials*,8
+2024-01,Egypt,Software Developer Bootcamp*,5
+2024-01,Egypt,Web Development Essentials*,2
+2024-01,Kenya,Data Scientist Bootcamp*,3
+2024-01,Kenya,Graphic Design - Adobe Certified*,4
+2024-01,Kenya,Software Developer Bootcamp*,12
+2024-01,Kenya,Web Development Essentials*,3
+2024-01,Morocco,Cybersecurity - Comptia Security + Certified,3
+2024-01,Morocco,Data Analytics - Microsoft Power BI Certified*,8
+2024-01,Morocco,Data Scientist Bootcamp*,6
+2024-01,Morocco,Digital Marketing: Social Media Management - FR,3
+2024-01,Morocco,Front End Developer - React JS Certified,6
+2024-01,Morocco,Graphic Design - Adobe Certified*,5
+2024-01,Morocco,Performance Marketing - Meta Certified,3
+2024-01,Morocco,Python Essentials*,9
+2024-01,Morocco,Social Media Marketing Essentials*,13
+2024-01,Morocco,Software Developer Bootcamp*,16
+2024-01,Morocco,Web Development Essentials*,6
+2024-01,Nigeria,Cybersecurity - Comptia Security + Certified,53
+2024-01,Nigeria,Data Analytics - Microsoft Power BI Certified*,3
+2024-01,Nigeria,Data Scientist Bootcamp*,28
+2024-01,Nigeria,Front End Developer - React JS Certified,6
+2024-01,Nigeria,Graphic Design - Adobe Certified*,4
+2024-01,Nigeria,Python Essentials*,9
+2024-01,Nigeria,Social Media Marketing Essentials*,15
+2024-01,Nigeria,Software Developer Bootcamp*,71
+2024-01,Nigeria,Software Testing - ISTQB Certified*,6
+2024-01,Nigeria,The Data Science Bootcamp,7
+2024-01,Nigeria,The Full-Stack JS Bootcamp,8
+2024-01,Nigeria,UX & UI Design*,31
+2024-01,Nigeria,Web Development Essentials*,19
+2024-01,Senegal,Cyber Security Bootcamp: Certified CompTIA Security +,4
+2024-01,Senegal,Cybersecurity - Comptia Security + Certified,4
+2024-01,Senegal,Data Analytics - Microsoft Power BI Certified*,4
+2024-01,Senegal,Data Scientist Bootcamp*,7
+2024-01,Senegal,Front End Developer - React JS Certified,3
+2024-01,Senegal,Graphic Design - Adobe Certified*,15
+2024-01,Senegal,Introduction to Business Intelligence,3
+2024-01,Senegal,Performance Marketing - Meta Certified,8
+2024-01,Senegal,Python Essentials*,14
+2024-01,Senegal,Social Media Marketing Essentials*,23
+2024-01,Senegal,Software Developer Bootcamp*,14
+2024-01,Senegal,The Data Science Bootcamp,3
+2024-01,Senegal,The Ultimate Design Bootcamp,8
+2024-01,Senegal,UX & UI Design*,3
+2024-01,Senegal,Web Development Essentials*,35
+2024-01,Tunisia,Cybersecurity - Comptia Security + Certified,16
+2024-01,Tunisia,Data Analytics - Microsoft Power BI Certified*,35
+2024-01,Tunisia,Data Scientist Bootcamp*,7
+2024-01,Tunisia,Front End Developer - React JS Certified,8
+2024-01,Tunisia,Graphic Design - Adobe Certified*,11
+2024-01,Tunisia,Performance Marketing - Meta Certified,23
+2024-01,Tunisia,Python Essentials*,30
+2024-01,Tunisia,Scratch & App Inventor For kids,12
+2024-01,Tunisia,Social Media Marketing Essentials*,20
+2024-01,Tunisia,Software Developer Bootcamp*,44
+2024-01,Tunisia,Software Testing - ISTQB Certified*,16
+2024-01,Tunisia,The Full-Stack JS Bootcamp,5
+2024-01,Tunisia,UX & UI Design*,11
+2024-01,Tunisia,Web Development Essentials*,21
+2024-02,Algeria,Cybersecurity - Comptia Security + Certified,4
+2024-02,Algeria,Data Analytics - Microsoft Power BI Certified*,4
+2024-02,Algeria,Data Scientist Bootcamp*,3
+2024-02,Algeria,Graphic Design - Adobe Certified*,6
+2024-02,Algeria,Performance Marketing - Meta Certified,4
+2024-02,Algeria,Software Developer Bootcamp*,8
+2024-02,Algeria,UX & UI Design*,3
+2024-02,Côte D'Ivoire,Graphic Design - Adobe Certified*,4
+2024-02,Côte D'Ivoire,The FullStack JS Bootcamp - FR,1
+2024-02,Egypt,The Full-Stack JS Bootcamp,2
+2024-02,Kenya,Performance Marketing - Meta Certified,2
+2024-02,Kenya,UX & UI Design*,3
+2024-02,Morocco,Advanced digital marketing: E-commerce & SEO,2
+2024-02,Morocco,Data Analytics - Microsoft Power BI Certified*,3
+2024-02,Morocco,UX & UI Design*,2
+2024-02,Morocco,Web Development Essentials*,3
+2024-02,Nigeria,Coding With Python,2
+2024-02,Nigeria,Cybersecurity - Comptia Security + Certified,4
+2024-02,Nigeria,Data Analytics - Microsoft Power BI Certified*,7
+2024-02,Senegal,Cybersecurity - Comptia Security + Certified,15
+2024-02,Senegal,Data Scientist Bootcamp*,6
+2024-02,Senegal,Graphic Design - Adobe Certified*,5
+2024-02,Senegal,Performance Marketing - Meta Certified,4
+2024-02,Senegal,Social Media Marketing Essentials*,2
+2024-02,Senegal,Software Developer Bootcamp*,2
+2024-02,Tunisia,Data Analytics - Microsoft Power BI Certified*,5
+2024-02,Tunisia,Data Scientist Bootcamp*,12
+2024-02,Tunisia,Front End Developer - React JS Certified,2
+2024-02,Tunisia,Python Essentials*,3
+2024-02,Tunisia,Software Developer Bootcamp*,13
+2024-02,Tunisia,Software Testing - ISTQB Certified*,4
+2024-02,Tunisia,Web Development Essentials*,2
+2024-03,Algeria,Data Analytics - Microsoft Power BI Certified*,7
+2024-03,Algeria,Graphic Design - Adobe Certified*,3
+2024-03,Algeria,Performance Marketing - Meta Certified,2
+2024-03,Algeria,Software Developer Bootcamp*,4
+2024-03,Algeria,Software Testing - ISTQB Certified*,10
+2024-03,Algeria,UX & UI Design*,3
+2024-03,Algeria,Web Development Essentials*,4
+2024-03,Côte D'Ivoire,Cybersecurity - Comptia Security + Certified,6
+2024-03,Côte D'Ivoire,Data Analytics - Microsoft Power BI Certified*,7
+2024-03,Côte D'Ivoire,Data Scientist Bootcamp*,15
+2024-03,Côte D'Ivoire,Graphic Design - Adobe Certified*,18
+2024-03,Côte D'Ivoire,Performance Marketing - Meta Certified,8
+2024-03,Côte D'Ivoire,Python Essentials*,11
+2024-03,Côte D'Ivoire,Social Media Marketing Essentials*,18
+2024-03,Côte D'Ivoire,Software Developer Bootcamp*,10
+2024-03,Côte D'Ivoire,UX & UI Design*,5
+2024-03,Côte D'Ivoire,Web Development Essentials*,13
+2024-03,Egypt,Cybersecurity - Comptia Security + Certified,1
+2024-03,Egypt,Data Analytics - Microsoft Power BI Certified*,3
+2024-03,Egypt,Data Scientist Bootcamp*,5
+2024-03,Egypt,Graphic Design - Adobe Certified*,4
+2024-03,Egypt,Social Media Marketing Essentials*,4
+2024-03,Egypt,Software Developer Bootcamp*,1
+2024-03,Egypt,The Full-Stack JS Bootcamp,1
+2024-03,Egypt,UX & UI Design*,7
+2024-03,Egypt,Web Development Essentials*,4
+2024-03,Kenya,Data Scientist Bootcamp*,11
+2024-03,Kenya,Python Essentials*,3
+2024-03,Kenya,Software Developer Bootcamp*,11
+2024-03,Kenya,Web Development Essentials*,5
+2024-03,Morocco,Cybersecurity - Comptia Security + Certified,4
+2024-03,Morocco,Data Analytics - Microsoft Power BI Certified*,8
+2024-03,Morocco,Data Scientist Bootcamp*,3
+2024-03,Morocco,Graphic Design - Adobe Certified*,5
+2024-03,Morocco,Performance Marketing - Meta Certified,3
+2024-03,Morocco,Python Essentials*,9
+2024-03,Morocco,Social Media Marketing Essentials*,1
+2024-03,Morocco,Software Developer Bootcamp*,5
+2024-03,Morocco,Web Development Essentials*,5
+2024-03,Nigeria,Cybersecurity - Comptia Security + Certified,76
+2024-03,Nigeria,Data Analytics - Microsoft Power BI Certified*,15
+2024-03,Nigeria,Data Scientist Bootcamp*,14
+2024-03,Nigeria,Graphic Design - Adobe Certified*,2
+2024-03,Nigeria,Performance Marketing - Meta Certified,7
+2024-03,Nigeria,Software Developer Bootcamp*,41
+2024-03,Nigeria,Software Testing - ISTQB Certified*,4
+2024-03,Nigeria,The Full-Stack JS Bootcamp,1
+2024-03,Nigeria,UX & UI Design*,19
+2024-03,Nigeria,Web Development Essentials*,18
+2024-03,Senegal,Cybersecurity - Comptia Security + Certified,10
+2024-03,Senegal,Data Analytics - Microsoft Power BI Certified*,14
+2024-03,Senegal,Data Scientist Bootcamp*,9
+2024-03,Senegal,Graphic Design - Adobe Certified*,4
+2024-03,Senegal,Performance Marketing - Meta Certified,8
+2024-03,Senegal,Python Essentials*,3
+2024-03,Senegal,Social Media Marketing Essentials*,21
+2024-03,Senegal,Software Developer Bootcamp*,9
+2024-03,Senegal,UX & UI Design*,2
+2024-03,Senegal,Web Development Essentials*,8
+2024-03,Tunisia,Cybersecurity - Comptia Security + Certified,5
+2024-03,Tunisia,Data Analytics - Microsoft Power BI Certified*,20
+2024-03,Tunisia,Data Scientist Bootcamp*,13
+2024-03,Tunisia,Front End Developer - React JS Certified,12
+2024-03,Tunisia,Graphic Design - Adobe Certified*,27
+2024-03,Tunisia,Introduction to Node.js,6
+2024-03,Tunisia,Performance Marketing - Meta Certified,13
+2024-03,Tunisia,Python Essentials*,12
+2024-03,Tunisia,Scratch & App Inventor For kids,4
+2024-03,Tunisia,Social Media Marketing Essentials*,22
+2024-03,Tunisia,Software Developer Bootcamp*,33
+2024-03,Tunisia,Software Testing - ISTQB Certified*,17
+2024-03,Tunisia,Unity for Kids,3
+2024-03,Tunisia,Web Development Essentials*,21
+2024-04,Algeria,Python Essentials*,4
+2024-04,Algeria,Software testing - ISTQB Certified V4 - FR,10
+2024-04,Algeria,Web Development Essentials*,4
+2024-04,Côte D'Ivoire,Cybersecurity - Comptia Security + Certified,6
+2024-04,Côte D'Ivoire,Data Analytics - Microsoft Power BI Certified*,8
+2024-04,Côte D'Ivoire,Front End Developer - React JS Certified,2
+2024-04,Côte D'Ivoire,Graphic Design - Adobe Certified*,5
+2024-04,Côte D'Ivoire,Performance Marketing - Meta Certified,1
+2024-04,Côte D'Ivoire,Python Essentials*,8
+2024-04,Côte D'Ivoire,Social Media Marketing Essentials*,9
+2024-04,Côte D'Ivoire,Web Development Essentials*,8
+2024-04,Egypt,Performance Marketing - Meta Certified,1
+2024-04,Egypt,Python Essentials*,3
+2024-04,Egypt,Social Media Marketing Essentials*,3
+2024-04,Egypt,Software Testing - ISTQB Certified*,3
+2024-04,Kenya,Data Scientist Bootcamp*,7
+2024-04,Kenya,Python Essentials*,2
+2024-04,Morocco,Cybersecurity - Comptia Security + Certified,6
+2024-04,Morocco,Data Analytics - Microsoft Power BI Certified*,4
+2024-04,Morocco,Performance Marketing - Meta Certified,9
+2024-04,Morocco,Python Essentials*,2
+2024-04,Morocco,Social Media Marketing Essentials*,8
+2024-04,Morocco,Software Developer Bootcamp*,1
+2024-04,Morocco,Web Development Essentials*,4
+2024-04,Nigeria,Cybersecurity - Comptia Security + Certified,98
+2024-04,Nigeria,Data Analytics - Microsoft Power BI Certified*,15
+2024-04,Nigeria,Data Scientist Bootcamp*,18
+2024-04,Nigeria,Python Essentials*,4
+2024-04,Nigeria,Software Developer Bootcamp*,63
+2024-04,Nigeria,Software Testing - ISTQB Certified*,8
+2024-04,Nigeria,UX & UI Design*,22
+2024-04,Nigeria,Web Development Essentials*,10
+2024-04,Senegal,Cybersecurity - Comptia Security + Certified,10
+2024-04,Senegal,Data Analytics - Microsoft Power BI Certified*,5
+2024-04,Senegal,Data Scientist Bootcamp*,5
+2024-04,Senegal,Graphic Design - Adobe Certified*,2
+2024-04,Senegal,Performance Marketing - Meta Certified,4
+2024-04,Senegal,Python Essentials*,5
+2024-04,Senegal,Social Media Marketing Essentials*,10
+2024-04,Senegal,Software Developer Bootcamp*,7
+2024-04,Senegal,UX & UI Design*,2
+2024-04,Senegal,Web Development Essentials*,16
+2024-04,Tunisia,Cybersecurity - Comptia Security + Certified,20
+2024-04,Tunisia,Data Analytics - Microsoft Power BI Certified*,9
+2024-04,Tunisia,Data Scientist Bootcamp*,12
+2024-04,Tunisia,Graphic Design - Adobe Certified*,2
+2024-04,Tunisia,Performance Marketing - Meta Certified,11
+2024-04,Tunisia,Python Essentials*,9
+2024-04,Tunisia,Social Media Marketing Essentials*,6
+2024-04,Tunisia,Software Developer Bootcamp*,15
+2024-04,Tunisia,Software Testing - ISTQB Certified*,2
+2024-04,Tunisia,UX & UI Design*,3
+2024-04,Tunisia,Unity for Kids,12
+2024-04,Tunisia,Web Development Essentials*,5
+2024-05,Algeria,Cyber Security Bootcamp: Certified CompTIA Security+ 701*,4
+2024-05,Algeria,Data Analytics - Microsoft Power BI Certified*,3
+2024-05,Algeria,Digital Marketing Course - Meta Certified,5
+2024-05,Algeria,Front End Developer - React JS Certified,3
+2024-05,Algeria,Software Developer Bootcamp*,4
+2024-05,Côte D'Ivoire,Data Scientist Bootcamp*,4
+2024-05,Côte D'Ivoire,Digital Marketing Course - Meta Certified,4
+2024-05,Côte D'Ivoire,Formation bureautique,2
+2024-05,Côte D'Ivoire,Front End Developer - React JS Certified,1
+2024-05,Côte D'Ivoire,Graphic Design - Adobe Certified*,3
+2024-05,Côte D'Ivoire,Python Essentials*,9
+2024-05,Côte D'Ivoire,Social Media Marketing Essentials*,8
+2024-05,Côte D'Ivoire,Web Development Essentials*,8
+2024-05,Egypt,Python Essentials*,2
+2024-05,Egypt,Software Testing - ISTQB Certified*,1
+2024-05,Egypt,The Data Science Bootcamp,3
+2024-05,Egypt,UX & UI Design*,1
+2024-05,Kenya,Data Scientist Bootcamp*,14
+2024-05,Kenya,Digital Marketing Course - Meta Certified,1
+2024-05,Kenya,Software Developer Bootcamp*,11
+2024-05,Morocco,Data Analytics - Microsoft Power BI Certified*,3
+2024-05,Morocco,Digital Marketing Course - Meta Certified,4
+2024-05,Morocco,Front End Developer - React JS Certified,2
+2024-05,Morocco,Python Essentials*,4
+2024-05,Morocco,Social Media Marketing Essentials*,7
+2024-05,Morocco,Web Development Essentials*,9
+2024-05,Nigeria,Cyber Security Bootcamp: Certified CompTIA Security+ 701*,58
+2024-05,Nigeria,Data Analytics - Microsoft Power BI Certified*,9
+2024-05,Nigeria,Data Scientist Bootcamp*,34
+2024-05,Nigeria,Digital Marketing Course - Meta Certified,4
+2024-05,Nigeria,Front End Developer - React JS Certified,8
+2024-05,Nigeria,Graphic Design - Adobe Certified*,6
+2024-05,Nigeria,Python Essentials*,6
+2024-05,Nigeria,Social Media Marketing Essentials*,9
+2024-05,Nigeria,Software Developer Bootcamp*,50
+2024-05,Nigeria,Software Testing - ISTQB Certified*,3
+2024-05,Nigeria,UX & UI Design*,27
+2024-05,Nigeria,Web Development Essentials*,13
+2024-05,Senegal,Cyber Security Bootcamp: Certified CompTIA Security+ 701*,6
+2024-05,Senegal,Data Analytics - Microsoft Power BI Certified*,9
+2024-05,Senegal,Data Scientist Bootcamp*,5
+2024-05,Senegal,Digital Marketing Course - Meta Certified,11
+2024-05,Senegal,Front End Developer - React JS Certified,3
+2024-05,Senegal,Python Essentials*,5
+2024-05,Senegal,Social Media Marketing Essentials*,7
+2024-05,Senegal,Software Developer Bootcamp*,5
+2024-05,Senegal,Web Development Essentials*,16
+2024-05,Tunisia,Cyber Security Bootcamp: Certified CompTIA Security+ 701*,7
+2024-05,Tunisia,Data Analytics - Microsoft Power BI Certified*,10
+2024-05,Tunisia,Data Scientist Bootcamp*,9
+2024-05,Tunisia,Digital Marketing Course - Meta Certified,3
+2024-05,Tunisia,Front End Developer - React JS Certified,3
+2024-05,Tunisia,Python Essentials*,4
+2024-05,Tunisia,Social Media Marketing Essentials*,8
+2024-05,Tunisia,Software Developer Bootcamp*,28
+2024-05,Tunisia,Software Testing - ISTQB Certified*,26
+2024-05,Tunisia,Web Development Essentials*,8
+2024-06,Algeria,Data Analytics - Microsoft Power BI Certified*,4
+2024-06,Algeria,Python Essentials*,4
+2024-06,Algeria,Web Development Essentials*,3
+2024-06,Côte D'Ivoire,Cyber Security Bootcamp: Certified CompTIA Security+ 701*,3
+2024-06,Côte D'Ivoire,Data Analytics - Microsoft Power BI Certified*,10
+2024-06,Côte D'Ivoire,Data Scientist Bootcamp*,3
+2024-06,Côte D'Ivoire,Digital Marketing Course - Meta Certified,5
+2024-06,Côte D'Ivoire,Front End Developer - React JS Certified,2
+2024-06,Côte D'Ivoire,Python Essentials*,19
+2024-06,Côte D'Ivoire,Social Media Marketing Essentials*,6
+2024-06,Côte D'Ivoire,Software Developer Bootcamp*,3
+2024-06,Côte D'Ivoire,Web Development Essentials*,17
+2024-06,Egypt,Cybersecurity - Comptia Security + Certified,2
+2024-06,Egypt,Data Analytics - Microsoft Power BI Certified*,2
+2024-06,Egypt,Performance Marketing - Meta Certified,3
+2024-06,Egypt,UX & UI Design*,3
+2024-06,Kenya,Web Development Essentials*,7
+2024-06,Morocco,Introduction to Web Development  -  Junior Tech Academy,2
+2024-06,Morocco,Python Essentials*,6
+2024-06,Morocco,Social Media Marketing Essentials*,9
+2024-06,Morocco,Web Development Essentials*,3
+2024-06,Nigeria,Cyber Security Bootcamp: Certified CompTIA Security+ 701*,40
+2024-06,Nigeria,Data Analytics - Microsoft Power BI Certified*,8
+2024-06,Nigeria,Python Essentials*,17
+2024-06,Nigeria,Social Media Marketing Essentials*,5
+2024-06,Nigeria,Software Testing - ISTQB Certified*,6
+2024-06,Nigeria,UX & UI Design*,17
+2024-06,Nigeria,Web Development Essentials*,38
+2024-06,Senegal,Cyber Security Bootcamp: Certified CompTIA Security+ 701*,18
+2024-06,Senegal,Data Analytics - Microsoft Power BI Certified*,16
+2024-06,Senegal,Digital Marketing Course - Meta Certified,6
+2024-06,Senegal,Graphic Design - Adobe Certified*,9
+2024-06,Senegal,Python Essentials*,11
+2024-06,Senegal,Social Media Marketing Essentials*,29
+2024-06,Senegal,Web Development Essentials*,20
+2024-06,Tunisia,Cyber Security Bootcamp: Certified CompTIA Security+ 701*,2
+2024-06,Tunisia,Cybersecurity - Comptia Security + Certified,1
+2024-06,Tunisia,Data Analytics - Microsoft Power BI Certified*,11
+2024-06,Tunisia,Digital Marketing Course - Meta Certified,10
+2024-06,Tunisia,Digital Marketing: Social Media Management - Summer Academy,7
+2024-06,Tunisia,Front End Developer - React JS Certified,2
+2024-06,Tunisia,Graphic Design - Adobe Certified*,21
+2024-06,Tunisia,Introduction to Artificial Intelligence - Summer Academy,3
+2024-06,Tunisia,Introduction to Game Development -  Junior Tech Academy,40
+2024-06,Tunisia,Introduction to Python -  Junior Tech Academy,138
+2024-06,Tunisia,Introduction to ReactJS- Summer Academy,6
+2024-06,Tunisia,Introduction to Web Development  -  Junior Tech Academy,78
+2024-06,Tunisia,Python Essentials*,11
+2024-06,Tunisia,Scratch & App Inventor For kids,3
+2024-06,Tunisia,Social Media Marketing Essentials*,8
+2024-06,Tunisia,Software Testing - ISTQB Certified*,2
+2024-06,Tunisia,UX & UI Design*,5
+2024-06,Tunisia,Web Development Essentials*,24
+2024-07,Algeria,Introduction to Python -  Junior Tech Academy,21
+2024-07,Algeria,Introduction to Web Development  -  Junior Tech Academy,9
+2024-07,Algeria,Python Essentials*,9
+2024-07,Algeria,Scratch & App Inventor For kids,9
+2024-07,Côte D'Ivoire,Digital Marketing Course - Meta Certified,3
+2024-07,Côte D'Ivoire,Digital Marketing: Social Media Management - Summer Academy,2
+2024-07,Côte D'Ivoire,Formation bureautique,3
+2024-07,Côte D'Ivoire,Introduction to Python -  Junior Tech Academy,5
+2024-07,Côte D'Ivoire,Introduction to Web Development  -  Junior Tech Academy,6
+2024-07,Côte D'Ivoire,Python Essentials*,2
+2024-07,Côte D'Ivoire,Social Media Marketing Essentials*,11
+2024-07,Côte D'Ivoire,Web Development Essentials*,3
+2024-07,Egypt,Graphic Design - Adobe Certified*,2
+2024-07,Egypt,Software Developer Bootcamp*,6
+2024-07,Morocco,Digital Marketing: Social Media Management - Summer Academy,1
+2024-07,Morocco,Introduction to Python -  Junior Tech Academy,4
+2024-07,Morocco,Introduction to Web Development  -  Junior Tech Academy,8
+2024-07,Morocco,Social Media Marketing Essentials*,5
+2024-07,Morocco,Web Development Essentials*,3
+2024-07,Nigeria,Digital Marketing: Social Media Management - Summer Academy,2
+2024-07,Nigeria,Front End Developer - React JS Certified,3
+2024-07,Nigeria,Introduction to Web Development  -  Junior Tech Academy,12
+2024-07,Nigeria,Scratch & App Inventor For kids,2
+2024-07,Senegal,Digital Marketing: Social Media Management - Summer Academy,7
+2024-07,Senegal,Graphic Design With Adobe Illustrator - Summer Academy,4
+2024-07,Senegal,Introduction to Python -  Junior Tech Academy,18
+2024-07,Senegal,Introduction to Web Development  -  Junior Tech Academy,16
+2024-07,Senegal,Social Media Marketing Essentials*,8
+2024-07,Senegal,Web Development Essentials*,8
+2024-07,Tunisia,Cyber Security Bootcamp: Certified CompTIA Security+ 701*,5
+2024-07,Tunisia,Data Analytics - Microsoft Power BI Certified*,16
+2024-07,Tunisia,Data Scientist Bootcamp*,2
+2024-07,Tunisia,Digital Marketing : Meta Certified,6
+2024-07,Tunisia,Digital Marketing: Social Media Management - Summer Academy,12
+2024-07,Tunisia,Front End Developer - React JS Certified,3
+2024-07,Tunisia,Graphic Design - Adobe Certified*,6
+2024-07,Tunisia,Graphic Design With Adobe Illustrator - Summer Academy,16
+2024-07,Tunisia,Introduction to Artificial Intelligence - Summer Academy,6
+2024-07,Tunisia,Introduction to Game Development -  Junior Tech Academy,134
+2024-07,Tunisia,Introduction to Python -  Junior Tech Academy,260
+2024-07,Tunisia,Introduction to ReactJS- Summer Academy,6
+2024-07,Tunisia,Introduction to Web Development  -  Junior Tech Academy,109
+2024-07,Tunisia,Scratch & App Inventor For kids,30
+2024-07,Tunisia,Software Testing - ISTQB Certified*,7
+2024-07,Tunisia,UX & UI Design*,2
+2024-07,Tunisia,Unity for Kids,2
+2024-07,Tunisia,Web Development Essentials*,2
+2024-08,Algeria,Introduction to Python -  Junior Tech Academy,25
+2024-08,Algeria,Introduction to Web Development  -  Junior Tech Academy,10
+2024-08,Algeria,Python Essentials*,3
+2024-08,Algeria,Web Development Essentials*,9
+2024-08,Côte D'Ivoire,Digital Marketing: Social Media Management - Summer Academy,2
+2024-08,Côte D'Ivoire,Introduction to Python -  Junior Tech Academy,5
+2024-08,Côte D'Ivoire,Introduction to Web Development  -  Junior Tech Academy,4
+2024-08,Côte D'Ivoire,Python Essentials*,4
+2024-08,Côte D'Ivoire,Web Development Essentials*,2
+2024-08,Morocco,Digital Marketing: Social Media Management - Summer Academy,2
+2024-08,Morocco,Introduction to Python -  Junior Tech Academy,2
+2024-08,Morocco,Introduction to Web Development  -  Junior Tech Academy,3
+2024-08,Morocco,Python Essentials*,4
+2024-08,Morocco,Social Media Marketing Essentials*,6
+2024-08,Morocco,Software Testing - ISTQB Certified*,2
+2024-08,Morocco,Web Development Essentials*,7
+2024-08,Nigeria,Introduction to Web Development  -  Junior Tech Academy,4
+2024-08,Nigeria,Python Essentials*,8
+2024-08,Nigeria,Scratch & App Inventor For kids,7
+2024-08,Nigeria,Software Testing - ISTQB Certified*,2
+2024-08,Nigeria,Web Development Essentials*,3
+2024-08,Senegal,Digital Marketing: Social Media Management - Summer Academy,9
+2024-08,Senegal,Graphic Design With Adobe Illustrator - Summer Academy,5
+2024-08,Senegal,Introduction to Python -  Junior Tech Academy,22
+2024-08,Senegal,Introduction to Web Development  -  Junior Tech Academy,12
+2024-08,Senegal,Python Essentials*,10
+2024-08,Senegal,Social Media Marketing Essentials*,17
+2024-08,Senegal,Web Development Essentials*,7
+2024-08,Tunisia,Data Analytics - Microsoft Power BI Certified*,3
+2024-08,Tunisia,Digital Marketing: Social Media Management - Summer Academy,12
+2024-08,Tunisia,Graphic Design With Adobe Illustrator - Summer Academy,10
+2024-08,Tunisia,Introduction to Game Development -  Junior Tech Academy,80
+2024-08,Tunisia,Introduction to Python -  Junior Tech Academy,229
+2024-08,Tunisia,Introduction to ReactJS- Summer Academy,3
+2024-08,Tunisia,Introduction to Web Development  -  Junior Tech Academy,93
+2024-08,Tunisia,Scratch & App Inventor For kids,13
+2024-08,Tunisia,Software Testing - ISTQB Certified*,11
+2024-09,Morocco,Formation bureautique,2
+2024-09,Nigeria,Software Developer Bootcamp*,12
+2024-09,Senegal,Introduction to Python -  Junior Tech Academy,10
+2024-09,Senegal,Introduction to Web Development  -  Junior Tech Academy,7
+2024-09,Tunisia,Software Testing - ISTQB Certified*,2
+2024-09,Tunisia,Web Development Essentials*,2
