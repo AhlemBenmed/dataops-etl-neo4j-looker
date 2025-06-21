@@ -89,7 +89,7 @@ This repository demonstrates the full data engineering workflow for the GoMyCode
 **Class diagram:** 
 ![SQL Diagram](images/sql_diagram.png)
 
-**Tables:** students, sessions, modules, attendance, diplomas, countries
+**Tables:** students, sessions, modules, attendance, intructors
 
 **SQL Queries:** [`graph/sql_queries.sql`](graph/sql_queries.sql)  
 **Markdown with explanations:** [`docs/sql_queries.md`](docs/sql_queries.md)
