@@ -1,0 +1,22 @@
+// Q1: Sessions attended by Alice
+MATCH re=(s:Student {name: "Joseph"})-[:ATTENDED]->(sess:Session)
+RETURN re
+// Q2: Top 3 most active students
+MATCH (s:Student)-[:ATTENDED]->(sess:Session)
+RETURN s.name, count(sess) AS session_count
+ORDER BY session_count DESC
+LIMIT 3
+// Q3: Attendee count per session
+MATCH (s:Student)-[:ATTENDED]->(sess:Session)
+RETURN sess.id AS session_id, count(s) AS student_count 
+ORDER BY student_count DESC
+// Q4: Unique students per module
+MATCH (s:Student)-[:ATTENDED]->(sess:Session)-[:BELONGS_TO]->(m:Module)
+RETURN m.name AS module, count(DISTINCT s) AS unique_students
+ORDER BY unique_students DESC
+// Q5: Students with zero attendance
+MATCH (s:Student)
+WHERE NOT (s)-[:ATTENDED]->(:Session)
+RETURN s.name
+// Q6: Modules and Sessions attended by Alice
+MATCH p=(s:Student{name: "Joseph"})-[:ATTENDED]->(sess:Session)-[:BELONGS_TO]->(m:Module) RETURN p

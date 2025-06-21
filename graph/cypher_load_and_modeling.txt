@@ -1,0 +1,24 @@
+//Loading_data_to_Neo4j And defined proprities & relationships
+//load Students
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/AhlemBenmed/dataops-etl-neo4j-looker/main/data/students.csv' AS row
+WITH row
+WHERE row.student_id IS NOT NULL AND apoc.number.parseInt(row.student_id,"0") <> 0
+MERGE (s:Student {id: toInteger(row.student_id)})
+SET s.name = row.name, s.email = row.email
+//load Sessions,Instructor,Module
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/AhlemBenmed/dataops-etl-neo4j-looker/main/data/sessions.csv' AS row
+WITH row
+WHERE row.session_id IS NOT NULL AND apoc.number.parseInt(row.session_id, "0") <> 0
+MERGE (sess:Session {id: toInteger(row.session_id)})
+SET sess.date = row.date
+MERGE (i:Instructor {name: row.instructor})
+MERGE (m:Module {name: row.module})
+MERGE (sess)-[:TAUGHT_BY]->(i)
+MERGE (sess)-[:BELONGS_TO]->(m)
+//load Attendances
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/AhlemBenmed/dataops-etl-neo4j-looker/main/data/attendance.csv' AS row
+WITH row
+WHERE row.student_id IS NOT NULL AND row.session_id IS NOT NULL AND apoc.number.parseInt(row.student_id, "0") <> 0 AND apoc.number.parseInt(row.session_id, "0") <> 0 
+MATCH (s:Student {id: toInteger(row.student_id)})
+MATCH (sess:Session {id: toInteger(row.session_id)})
+MERGE (s)-[:ATTENDED]->(sess)
