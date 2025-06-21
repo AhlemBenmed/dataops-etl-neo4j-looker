@@ -1,4 +1,4 @@
-# 📦 DataOps Internship Project – GoMyCode
+# 📦 DataOps Task– GoMyCode
 
 ## 🔍 Overview
 
