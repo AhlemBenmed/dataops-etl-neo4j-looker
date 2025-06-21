@@ -1,5 +1,9 @@
 # 📦 DataOps Task – GoMyCode
-
+![Python](https://img.shields.io/badge/Python-ETL-blue)
+![Neo4j](https://img.shields.io/badge/Neo4j-Graph--Modeling-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL--Queries-blue)
+![LookerStudio](https://img.shields.io/badge/Looker-Studio-orange)
+![MATLAB](https://img.shields.io/badge/MATLAB-Visualization-yellow)
 ## 🔍 Overview
 
 This repository demonstrates the full data engineering workflow for the GoMyCode DataOps Internship Task, including:
@@ -89,7 +93,7 @@ This repository demonstrates the full data engineering workflow for the GoMyCode
 **Class diagram:** 
 ![SQL Diagram](images/sql_diagram.png)
 
-**Tables:** students, sessions, modules, attendance, intructors
+**Tables:** students, sessions, modules, attendance, instructors
 
 **SQL Queries:** [`graph/sql_queries.sql`](graph/sql_queries.sql)  
 **Markdown with explanations:** [`docs/sql_queries.md`](docs/sql_queries.md)
@@ -158,8 +162,8 @@ This repository demonstrates the full data engineering workflow for the GoMyCode
 
 ## 🙋‍♀️ Created By
 
-> Developed by ***Ahlem Ben Mohamed***  
-> GitHub: [Ahlem_Github_link](https://github.com/AhlemBenmed)
-> Linkedin: [Ahlem_Linkedin_link](www.linkedin.com/in/ahlem-benmed)
+> Developed by [Ahlem Ben Mohamed](https://github.com/AhlemBenmed)  
+> 💼 [LinkedIn](https://www.linkedin.com/in/ahlem-benmed)
+
 ---
 **For more details, see the respective files and diagrams in each folder.**
