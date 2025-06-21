@@ -86,7 +86,7 @@ This repository demonstrates the full data engineering workflow for the GoMyCode
 
 ## 3. 🗃️ Relational Schema & SQL Queries
 
-**ERD:** 
+**Class diagram:** 
 ![SQL Diagram](images/sql_diagram.png)
 
 **Tables:** students, sessions, modules, attendance, diplomas, countries
