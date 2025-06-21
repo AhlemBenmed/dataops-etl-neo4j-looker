@@ -151,7 +151,7 @@ This repository demonstrates the full data engineering workflow for the GoMyCode
    - Run queries from `graph/cypher_queries.txt`
 5. Explore Looker Studio Dashboard:
    - [Looker Studio Dashboard Link](https://lookerstudio.google.com/s/kTDNsXjy3Ew)
-   - 📸 Screenshots available in `dashboard/`
+   - 🧾PDF available in `dashboard/`
 6. Review markdown documentation in `docs/`
 
 ---
