@@ -1,4 +1,4 @@
-# 📦 DataOps Task– GoMyCode
+# 📦 DataOps Task – GoMyCode
 
 ## 🔍 Overview
 
@@ -48,15 +48,13 @@ This repository demonstrates the full data engineering workflow for the GoMyCode
 **Schema:**
 - 🧑‍🎓 Student
 - 🗓️ Session
+- 🧑‍🏫 Instructor
 - 📘 Module
-- 🌍 Country
-- 🏆 Diploma
 
 **Relationships:**
 - Student —[:ATTENDED]→ Session
+- Session —[:TAUGHT_BY]→ Instructor
 - Session —[:BELONGS_TO]→ Module
-- Student —[:FROM]→ Country
-- Student —[:EARNED]→ Diploma
 
 **Graph Schema Markdown:** [`graph/graph_schema.md`](graph/graph_schema.md)  
 **Schema Diagram:** ![Graph Schema](images/schema_diagram.png)
@@ -105,7 +103,7 @@ This repository demonstrates the full data engineering workflow for the GoMyCode
 | Area             | Details                                                               |
 | ---------------- | --------------------------------------------------------------------- |
 | Pipeline Purpose | Build clean OLAP datasets for churn, revenue, and cohort tracking     |
-| Graph Design     | Flexible and expressive using property graph modeling                 |
+| Graph Design     | Flexible and expressive using property graph modeling (see node/relationship types in `graph/graph_schema.md` and images) |
 | Query Purpose    | Solve real business questions (engagement, retention, learning paths) |
 | Tools Used       | Neo4j Aura, Python (Pandas), PostgreSQL, Looker Studio, MATLAB        |
 | Assumptions      | Clean student IDs, normalized dates, sessions tied to one module      |
@@ -153,7 +151,7 @@ This repository demonstrates the full data engineering workflow for the GoMyCode
    - Run queries from `graph/cypher_queries.txt`
 5. Explore Looker Studio Dashboard:
    - [Looker Studio Dashboard Link](https://lookerstudio.google.com/s/kTDNsXjy3Ew)
-   - Screenshots available in `dashboard/`
+   - 📸 Screenshots available in `dashboard/`
 6. Review markdown documentation in `docs/`
 
 ---
